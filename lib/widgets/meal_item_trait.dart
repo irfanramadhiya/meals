@@ -14,7 +14,7 @@ Widget mealItemTrait(IconData icon, String label) {
       Text(
         label,
         style: const TextStyle(color: Colors.white),
-      )
+      ),
     ],
   );
 }
